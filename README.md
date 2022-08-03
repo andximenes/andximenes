@@ -1,6 +1,6 @@
 ### Olá, Eu sou o André Ximenes👋
 
-- 🔭 Cursando o 3º Semestre de Análise e desenvolvimento de sistemas.
+- 🔭 Cursando o 4º Semestre de Análise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/andximenes">
