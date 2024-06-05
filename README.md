@@ -16,7 +16,6 @@
   <img align="middle" alt="icon-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-  
 <h2>Contato Social</h2>
   
 <div> 
