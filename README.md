@@ -20,6 +20,4 @@
 <div> 
   <a href="https://www.linkedin.com/in/andr%C3%A9-ximenes-a14199202/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a  href="and1ximenes92@gmail.com"><img align="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
 </div>
