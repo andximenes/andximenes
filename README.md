@@ -2,7 +2,7 @@
 
 <h2>💻 Sobre mim </h2>
 <p>
-  Em transição para a área de desenvolvimento, construindo projetos práticos para consolidar habilidades e formar portfólio. Ainda não tenho experiência profissional na área.
+  Em transição para a área de desenvolvimento, construindo projetos práticos para consolidar habilidades.
 </p>
 
 <h2>🎓 Formação Acadêmica</h2>
